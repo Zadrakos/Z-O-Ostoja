@@ -1,0 +1,7 @@
+"zorpg"
+{
+	"base"		"base"
+	"title"		"Zadrakos & Ostoja's RPG"
+	"maps"		"^rpg_"
+	"menusystem"	"1"
+}

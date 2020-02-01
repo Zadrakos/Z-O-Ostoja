@@ -1,0 +1,9 @@
+"AddonInfo"
+ {
+    "name"        "Zadrakos & Ostoja's RPG Gamemode"
+    "version"    "0.0.1 BETA"
+
+    "author_name"    "Zadrakos & Ostoja"
+
+    "info"        "RPG Gamemode made by both Zadrakos and Ostoja"
+ }
